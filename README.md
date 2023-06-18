@@ -13,4 +13,4 @@ This is the code u can run and see in the console - https://github.com/Harsha-Va
 
 You can refer - https://github.com/Harsha-Vardhan-Tangudu/Online-Learning-Platform-Using-Hybrid-Structures/tree/main/FLASK%20PRO%202%20(2)/FLASK%20PRO%202
 
-Here in flask if u run any of the page u will get in console a URL.This will take to your Rwequied UI Page 
+Here in flask if u run any of the page u will get in console a URL.This will take to your Requied UI Page 
