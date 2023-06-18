@@ -9,11 +9,12 @@ Uploaded Document Flask Pro gives the details of how we linked code using data s
 This is the code u can run and see in the console - https://github.com/Harsha-Vardhan-Tangudu/Online-Learning-Platform-Using-Hybrid-Structures/blob/main/dsa%20project.py
 
 
-
+To extend our project to link with an UI.You should install some of libraries related to flask.
+after that,
+If u run any of the page in the folder flask pro u will get in console a URL.This will take to a our UI Page 
 
 You can refer - https://github.com/Harsha-Vardhan-Tangudu/Online-Learning-Platform-Using-Hybrid-Structures/tree/main/FLASK%20PRO%202%20(2)/FLASK%20PRO%202
 
-Here in flask if u run any of the page u will get in console a URL.This will take to your Requied UI Page 
 
 If you have MAC you can run this code to get output like an application like:
 
